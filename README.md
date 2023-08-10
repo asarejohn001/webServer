@@ -3,7 +3,7 @@ Deployed a webserver using Azure services
 
 ## [View certificate](Coursera%20NB4D7W3EG9EJ.pdf "coursera cert")
 
-## [View screenshot]()
+## [View screenshot](webServerSC)
 
 ## What I learned
 ### Azure portal: navigate
