@@ -2,7 +2,7 @@
 Deployed a webserver using Azure services
 
 ## What I learned
-###Azure portal: navigate
+### Azure portal: navigate
 Navigated through the portal to create various Azure services
 
 2. Create a virtual windows virtual machine
