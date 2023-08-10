@@ -1,7 +1,9 @@
 # webServer
 Deployed a webserver using Azure services
 
-## [View certificate]()
+## [View certificate](Coursera NB4D7W3EG9EJ.pdf "coursera cert")
+
+## [View screenshot]()
 
 ## What I learned
 ### Azure portal: navigate
