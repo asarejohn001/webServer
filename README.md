@@ -1,7 +1,7 @@
 # webServer
 Deployed a webserver using Azure services
 
-## [View certificate](blob/main/Coursera%20NB4D7W3EG9EJ.pdf "coursera cert")
+## [View certificate](webServer/Coursera%20NB4D7W3EG9EJ.pdf "coursera cert")
 
 ## [View screenshot]()
 
