@@ -1,6 +1,8 @@
 # webServer
 Deployed a webserver using Azure services
 
+## [View certificate]()
+
 ## What I learned
 ### Azure portal: navigate
 Navigated through the portal to create various Azure services.
